@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MLCoin</string>
+    <string name="welcome_title">¡Bienvenido a MLCoin!</string>
+    <string name="tipoTarjeta">Tipo:</string>
+    <string name="monto">Monto:</string>
+    <string name="grupoTarjeta">Grupo:</string>
+    <string name="banco">Banco:</string>
+    <string name="cuota">Cuotas:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
